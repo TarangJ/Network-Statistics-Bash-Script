@@ -1,7 +1,5 @@
 # Network-Statistics-Bash-Script
 
-# Network Statistics Bash Script
-
 This is a simple Bash script that gathers and displays various network-related information on a Linux system.
 
 ## Features
